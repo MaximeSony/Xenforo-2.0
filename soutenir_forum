@@ -1,0 +1,10 @@
+<xf:include template="soutenir_forum.less" />
+<div class="block-container">
+<h3 class="block-minorHeader"><i class="fa fa-paypal" aria-hidden="true" fa-large="" fa-fixed-width="" style="padding-right:10px;"></i> Nous Soutenir</h3>
+<br>
+<p class="text_1">Extra-Leak's ce développe de jour en jour grâce à sa communauté et son équipe de bénévoles qui oeuvrent chaque jour au bien-être du site.</p>
+<br>
+<p class="text_1">Soucieux de vous proposer une expérience utilisateur optimale, le rang VIP à été mis en place pour aider à financer les différents frais liés à l'hébergement et au développement du site.</p>
+<div class="div_bouton_soutenir"><a class="bouton_soutenir" href="https://www.extra-leaks.com/account/upgrades" class="button--cta button button--icon button--icon--write" data-xf-click="overlay"><span class="button-text">
+				<i class="fa fa-user-plus"></i> Accédez a nos abonnements
+				</span></a></div><br></div>
