@@ -1,0 +1,6 @@
+<xf:css src="statu_on_off.less" />
+<xf:if is="$user.isOnline()">
+    <div class="onlineON">En ligne</div>
+<xf:else />
+    <div class="offlineOFF">Hors ligne</div>
+</xf:if>
