@@ -1,0 +1,22 @@
+<div class="block-container">
+    	<h3 class="block-minorHeader"><i class="fa fa-users fa-large fa-fixed-width" style="padding-right:3px;"></i>Groupes d'utilisateurs</h3>
+        	<div class="block-body block-row">
+            	<dl class="pairs pairs--justified">
+					<div class="username" style="text-align:center;" class="tooltip">
+            <span class="username--style8" data-xf-init="tooltip" title="Créateur du forum s'occupe de l'ensenble.">Fondateur</span>
+            <br><span class="username--style3" data-xf-init="tooltip" title="Responsable du staff, des probléme administratives, et de l'ensemble du forum.">Administrateur</span>
+            <br><span class="username--style4" data-xf-init="tooltip" title="Gére la modération de tous le forum ainsi que les assistants.">Modérateur</span>
+            <br><span class="username--style5" data-xf-init="tooltip" title="Viens en aide a l'ensemble des membres du forum ainsi que celui du personnel.">Assistant</span>
+			<br><span class="username--style11" data-xf-init="tooltip" title="Développe & crée de nouvelle applications peut également vous venir en aide.">Développeur</span>
+            <br><span class="username--style13" data-xf-init="tooltip" title="Personnel a la retraite">Ancien Staff</span>
+            <br><span class="username--style15" data-xf-init="tooltip" title="Site communiquant directement avec notre site">Partenaire</span>
+            <br><span class="username--style9" data-xf-init="tooltip" title="Membre ayant effectuer certaine action envers le forum, ne débloque aucun pass droit">Membre Officiel</span>
+			<br><span class="username--style12" data-xf-init="tooltip" title="Personne ayant été approuve par le staff a vendre sur le forum.">Vendeur Officiel</span>
+            <br><span class="username--style6" data-xf-init="tooltip" title="Personne ayant souscrit un abonnement pou accéder a notre catégorie.">V.I.P</span>
+            <br><span class="username--style14" data-xf-init="tooltip" title="Membre de la communauté ayant effectué un dons au forum">Donateur</span>
+            <br><span class="username--style2" data-xf-init="tooltip" title="Membre du forum">Membre</span>
+			<br><span class="username--style7" data-xf-init="tooltip" title="Personne ayant perdu le droit de naviguer sur le forum">Banni</span>
+					</div>
+            	</dl>
+        	</div>
+	</div>
